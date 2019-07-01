@@ -1,0 +1,15 @@
+{
+  "name": "spotifydir",
+  "version": "1.0.0",
+  "description": "Spotify Query Web Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Justin Reel",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1"
+  }
+}
